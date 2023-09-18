@@ -8,10 +8,6 @@ header-includes:
     - \usepackage{framed}\definecolor{shadecolor}{rgb}{0.949,0.949,0.949}
 ---
 
-```{r setup, include=FALSE}
-#use this code chunk to set global options
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 * * * 
 
@@ -62,7 +58,7 @@ will be rejected. What is the probability that at least one of the schools will 
     Hint: Let $E$ denote the event that he is accepted at the eastern branch and $N$ the event that he is accepted at the Northern branch. You are given $$P(E) = 0.7, P(N) = 0.4, P(E^c \cup N^c) = 0.75.$$ 
 You need to find $P(E \cup N).$
 
-4. Prove that if $E \subset F$, then $P(E) \leq P(F)$.   (Hint: Write $F$ as the union of two mutually exclusive sets $E$ and $F \setminus E$. Then apply axiom 3 )
+4. Prove that if $E \subset F$, then $P(E) \leq P(F)$.   (Hint: Write $F$ as the union of two mutually exclusive sets $E$ and $F - E$. Then apply axiom 3 )
 
 
 
