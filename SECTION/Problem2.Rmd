@@ -50,7 +50,7 @@ The specific tasks include:
 The methods employed in the experiment were fully disclosed to the subject and she had to select the 4 cups prepared with the "milk poured first". 
 
 
-```{r tea-cups, echo=F, fig.align = "center", out.width="85%"}
+```{r teacups, echo=F, fig.align = "center", out.width="85%"}
 #including an image file
 knitr::include_graphics("problem2au23fig1.JPG")
 ```
