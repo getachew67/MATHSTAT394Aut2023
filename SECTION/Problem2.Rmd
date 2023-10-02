@@ -67,7 +67,7 @@ knitr::include_graphics("problem2au23fig1.JPG")
   b. Let $E$ denote the event that there are 3 cups with "milk poured first" and 1 cup with "tea poured first". How many elements are in $E$? Write your answer symbolically first and also calculate it in a code chunk below.
   
 ```{r give_me_a_name}
-#calculate number of elements in S
+#calculate number of elements in E
 
 ```
 
