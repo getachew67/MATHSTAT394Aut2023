@@ -6,6 +6,11 @@ date: "`r Sys.Date()`"
 output: pdf_document
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
 * * * 
 
 ### Instructions
@@ -26,7 +31,7 @@ output: pdf_document
 
 1. Suppose 12 coins are tossed and the outcome (head or tail) is recorded for each.  
    
-a. The sample space $S$ corresponding to this "experiment" consists of all possible sequences of heads and tails that result from tossing 12 coins. How many elements are in $S$? Calculate this number in a code chunk, report the answer using inline code and also explain your answer very briefly.
+a. The sample space $S$ corresponding to this "experiment" consists of all possible sequences of heads and tails that result from tossing 12 coins. How many elements are in $S$? Calculate this number in a code chunk, report the answer using inline code and also explain your answer very briefly. 
 
     *Hint: Refer to Braille alphabet example 3.2. This problem is similar but with a 12 dot matrix.*
    
