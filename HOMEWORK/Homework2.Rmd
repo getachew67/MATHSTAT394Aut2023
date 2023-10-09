@@ -71,7 +71,7 @@ a. Make a tree diagram of the probabilities relating presenting with a sore thro
    - Create a new code chunk, give it a name. Then see problem 2a in `Problem2.Rmd` for the code to create the tree and add that to your code chunk with the numbers appropriately changed.
 
     
-b. If a student comes to Hall Health and says that she has a sore throat, what is the probability that she has mono? Be sure to show your steps carefully.  (Hint: please see problem 2b in `Problem2.Rmd` for help, We will deduct points for not defining events and carefully showing your work step by step. )
+b. If a student comes to Hall Health and says that she has a sore throat, what is the probability that she has mono? Report your answer rounded to 4 decimal places, using inline code. Be sure to show your steps carefully.  (Hint: please see problem 2b in `Problem2.Rmd` for help, We will deduct points for not defining events and carefully showing your work step by step. )
 
 4. If $A$ and $B$ are independent events, then the following pairs are also independent. 
 
@@ -81,4 +81,4 @@ b. $A^c$ and $B$
 
 c. $A^c$ and $B^c$.
 
-Prove result c. only. You may use the results from a. and b. without proof in your answer.
+   Prove result c. only. You may use the results from a. and b. without proof in your answer.
