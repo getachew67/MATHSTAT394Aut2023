@@ -86,4 +86,4 @@ b. $A^c$ and $B$
 
 c. $A^c$ and $B^c$.
 
-   Prove result c. only. You may use the results from a. and b. without proof in your answer.
+   Prove result c. only. Show your work carefully with justification.
