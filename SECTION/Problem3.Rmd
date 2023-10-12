@@ -55,15 +55,8 @@ b. Give the CDF of $X$.
 
 c. Draw the probability histogram of $X$ in R.
 
-3. Suppose $X$ is a discrete uniform random variable on the integers $-n, -n + 1, -n +2, \dots, 0, 1, 2,\dots, n$, that is, 
-$$f(x) = P(X = x) = c, \ \ \ x = -n, -n+1, -n+2, \dots, 1,2,\dots,n.$$
-
-a. What is $c$?
-
-b. What is the PMF of  $$Y = -X? $$
-
 	  
-4. Which of the following is a valid CDF? (choose one; also point out what's wrong with the ones you didn't choose)
+3. Which of the following is a valid CDF? (choose one; also point out what's wrong with the ones you didn't choose)
 
 a. 
 \begin{align*} 
