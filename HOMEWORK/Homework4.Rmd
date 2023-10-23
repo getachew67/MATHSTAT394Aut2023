@@ -84,6 +84,6 @@ d. Find the standard deviation of $X$ and interpret the number.
         *Hint*: Show that the event $0.9 \times \frac{n}{2} < X < 1.1 \times \frac{n}{2}$ can be rewritten as $|X - \frac{n}{2} | < 0.1 \times \sqrt{n} \times \sigma$. Then apply Chebyshev's inequality.)
 
 
-4.(Golfers) Two golfers are playing sudden death to decide a tournament. The first one wins a hole with probability $p$, the second one wins with probability $q$, and holes are tied with probability $r$. Holes are independent, and the game stops the first time someone wins a hole. What is the probability that the first player wins? Show your work step by step and cite any rules/results you use.
+4. (Golfers) Two golfers are playing sudden death to decide a tournament. The first one wins a hole with probability $p$, the second one wins with probability $q$, and holes are tied with probability $r$. Holes are independent, and the game stops the first time someone wins a hole. What is the probability that the first player wins? Show your work step by step and cite any rules/results you use.
 
-*Hint*: Let $X$ be the number of games it takes for player A to win. Then $X$ can be 1 (win), 2 (tie, win), 3(tie, tie, win), and so on. The probability that player A wins is $P(X=1 \cup X=2 \cup \dots)$
+    *Hint*: Let $X$ be the number of games it takes for player A to win. Then $X$ can be 1 (win), 2 (tie, win), 3(tie, tie, win), and so on. The probability that player A wins is $P(X=1 \cup X=2 \cup \dots)$
